@@ -1,4 +1,4 @@
-spring.application.name=ribbon-service
+spring.application.name=spring-cloud-ribbon-gitconfig
 server.port=11001
 
 logging.file.name=ribbon.log
