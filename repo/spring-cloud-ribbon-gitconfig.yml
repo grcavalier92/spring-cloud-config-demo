@@ -1,0 +1,8 @@
+#spring.application.name=ribbon-service-gitconfig
+#server.port=11000
+
+
+#logging.file.name=ribbon.log
+#logging.level.com.lzz.ribbon=info
+
+#eureka.client.service-url.defaultZone=http://peer1:9822/eureka,http://peer2:9823/eureka
