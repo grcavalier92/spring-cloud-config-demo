@@ -1,4 +1,4 @@
-spring.application.name=ribbon-service-gitconfig
+spring.application.name=spring-cloud-ribbon-gitconfig
 server.port=11002
 
 
